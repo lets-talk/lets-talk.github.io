@@ -1,2 +1,0 @@
-# abrelatam
-Event landing page
