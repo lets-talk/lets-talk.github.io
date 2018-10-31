@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="77px" height="79px" viewBox="0 0 77 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-852.000000, -2183.000000)" stroke="#FFFFFF" stroke-width="3">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(854.000000, 2185.000000)">
+                <ellipse id="Oval-11" sketch:type="MSShapeGroup" cx="36.6428571" cy="10.1785714" rx="36.6428571" ry="10.1785714"></ellipse>
+                <ellipse id="Oval-12" sketch:type="MSShapeGroup" cx="36.6428571" cy="10.1785714" rx="36.6428571" ry="10.1785714"></ellipse>
+                <path d="M73.2857143,40.0357143 C73.2857143,34.4142445 56.8801483,29.8571429 36.6428571,29.8571429 C16.405566,29.8571429 0,34.4142445 0,40.0357143" id="Oval-13" sketch:type="MSShapeGroup" transform="translate(36.642857, 34.946429) scale(1, -1) translate(-36.642857, -34.946429) "></path>
+                <path d="M73.2857143,57.6785714 C73.2857143,52.0571017 56.8801483,47.5 36.6428571,47.5 C16.405566,47.5 0,52.0571017 0,57.6785714" id="Oval-14" sketch:type="MSShapeGroup" transform="translate(36.642857, 52.589286) scale(1, -1) translate(-36.642857, -52.589286) "></path>
+                <path d="M73.2857143,20.8736309 C73.2857143,15.2521611 56.8801483,10.6950595 36.6428571,10.6950595 C16.405566,10.6950595 0,15.2521611 0,20.8736309 L3.33396606e-15,75.3214286" id="Oval-15" sketch:type="MSShapeGroup" transform="translate(36.642857, 43.008244) scale(1, -1) translate(-36.642857, -43.008244) "></path>
+                <path d="M73.2857143,65.9487062 L73.2857143,10.6950595" id="Path-59" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

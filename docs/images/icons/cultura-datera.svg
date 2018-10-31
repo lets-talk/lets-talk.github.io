@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="109px" height="85px" viewBox="0 0 109 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-448.000000, -2525.000000)" stroke="#FFFFFF" stroke-width="3">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(448.000000, 2527.000000)">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="15.9512195" cy="47.4285714" rx="10.6341463" ry="10.5396825"></ellipse>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="0" y="56.6507937" width="33.2317073" height="26.3492063"></rect>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="91.7195122" cy="47.4285714" rx="10.6341463" ry="10.5396825"></ellipse>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="75.7682927" y="56.6507937" width="33.2317073" height="26.3492063"></rect>
+                <path d="M53.6492683,31.6190476 C58.0540759,31.6190476 61.624878,28.0799652 61.624878,23.7142857 C61.624878,19.3486063 58.0540759,15.8095238 53.6492683,15.8095238 C49.2444607,15.8095238 45.6736585,19.3486063 45.6736585,23.7142857 C45.6736585,28.0799652 49.2444607,31.6190476 53.6492683,31.6190476 Z" id="Oval-5" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="39.8780488" y="30.8662132" width="27.9146341" height="22.3968254"></rect>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="81.4043902" cy="5.42040816" rx="5.5297561" ry="5.42040816"></ellipse>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="70.4512195" y="10.1632653" width="22.597561" height="18.8396828"></rect>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="25.575122" cy="5.42040816" rx="5.5297561" ry="5.42040816"></ellipse>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="14.6219512" y="10.1632653" width="22.597561" height="18.8396828"></rect>
+                <path d="M35.5,26.5 L43.4999997,32.5000001" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M64.3780488,26.5 L73.3780484,32.5000001" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(68.439024, 29.531746) scale(-1, 1) translate(-68.439024, -29.531746) "></path>
+                <path d="M29.9085366,50.7222222 L41.8719512,58.6269841" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(35.890244, 54.674603) scale(1, -1) translate(-35.890244, -54.674603) "></path>
+                <path d="M67.1280488,50.7222222 L79.0914634,58.6269841" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(73.109756, 54.674603) scale(-1, -1) translate(-73.109756, -54.674603) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
